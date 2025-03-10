@@ -5,9 +5,10 @@ IMPORTANT NOTICE: This repository contains only mockups, documentation, and demo
 This repository showcases the project "Generative AI Solutions for Small Businesses" where generative AI solutions (using GPT, Claude, & Gemini LLMs) were used to develop informational and e-commerce website for for three unique small businesses. The project focuses on creating website wireframes and prototypes along with AI-driven analytics tools to enhance marketing and customer service capabilities.
 
 ## Project Highlights
-- **Tailored Website Mockups:** Visual prototypes for ArtFrokReationz, Heimeinu, and RoselynnManor.
-- **AI-driven Analytics:** Dashboards and tools providing insights into customer behavior.
-- **User-Friendly Design:** Interfaces that are modern, engaging, and easy to navigate.
+- **AI-Driven Design**: Utilized GPT, Claude, and Gemini LLMs to develop website wireframes and prototypes
+- **Analytics Integration**: Implemented AI-powered analytics tools providing actionable business insights
+- **Collaborative Approach**: Worked directly with business owners to ensure solutions aligned with their goals
+- **Production Implementation**: Translated AI-generated designs into fully functional websites
 
 ## Website Mockups Showcase
 
@@ -28,6 +29,10 @@ A bespoke full-service catering founded by Chef Jacky Nicole, Heimeinu creativel
 
 **Description:**  
 Roselynn Manor, a historic venue, elegantly combines nature, history, and contemporary amenities, providing a unique digital showcase for its diverse offerings. It features stunning event spaces suitable for corporate events, weddings, and special occasions, an elegant tea room offering refined tea experiences, and charming bed and breakfast accommodations blending timeless elegance with modern comfort. The manor emphasizes its heritage charm while ensuring a memorable and engaging experience for visitors, making it an ideal destination for both leisure and cultural gatherings.
+
+## Additional Information
+- [Features](docs/FEATURES.md)
+- [FAQ](docs/FAQ.md)
 
 
 ## 📄 License
