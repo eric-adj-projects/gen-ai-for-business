@@ -33,8 +33,8 @@ A bespoke full-service catering founded by Chef Jacky Nicole, Heimeinu creativel
 Roselynn Manor, a historic venue, elegantly combines nature, history, and contemporary amenities, providing a unique digital showcase for its diverse offerings. It features stunning event spaces suitable for corporate events, weddings, and special occasions, an elegant tea room offering refined tea experiences, and charming bed and breakfast accommodations blending timeless elegance with modern comfort. The manor emphasizes its heritage charm while ensuring a memorable and engaging experience for visitors, making it an ideal destination for both leisure and cultural gatherings. [RoselynnManor.com](https://www.roselynnmanor.com/)
 
 ## Additional Information
-- [Features](Docs/features.md)
-- [FAQ](Docs/faq.md)
+- [Features](docs/features.md)
+- [FAQ](docs/faq.md)
 
 
 ## 📄 License
