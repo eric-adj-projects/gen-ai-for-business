@@ -32,7 +32,7 @@ Roselynn Manor, a historic venue, elegantly combines nature, history, and contem
 
 ## Additional Information
 - [Features](Docs/features.md)
-- [FAQ](docs/faq.md)
+- [FAQ](Docs/faq.md)
 
 
 ## 📄 License
