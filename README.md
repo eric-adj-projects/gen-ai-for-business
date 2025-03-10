@@ -2,7 +2,7 @@ IMPORTANT NOTICE: This repository contains only mockups, documentation, and demo
 
 # Generative AI Solutions for Small Businesses
 
-This repository showcases the project "Generative AI Solutions for Small Businesses" where generative AI solutions (using GPT, Claude, & Gemini LLMs) were used to develop informational and e-commerce website for for three unique small businesses. The project focuses on creating website wireframes and prototypes along with AI-driven analytics tools to enhance marketing and customer service capabilities.
+This repository showcases the project "Generative AI Solutions for Small Businesses" where generative AI solutions (using GPT, Claude, & Gemini LLMs) were used to develop informational and e-commerce website for for three unique small businesses. The project focuses on creating website wireframes, prototypes, and production ready websites along with AI-driven analytics tools to enhance marketing and customer service capabilities.
 
 ## Project Highlights
 - **AI-Driven Design**: Utilized GPT, Claude, and Gemini LLMs to develop website wireframes and prototypes
