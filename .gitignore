@@ -1,53 +1,30 @@
-# Python-related
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Production build
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
 
-# Virtual Environments
-venv/
-ENV/
+# Environment variables
 .env
+.env.local
+.env.development
+.env.test
+.env.production
 
-# IDE-related
+# IDE specific files
 .idea/
 .vscode/
-*.swp
-*.swo
+*.sublime-project
+*.sublime-workspace
 
-# OS-related
+# OS generated files
 .DS_Store
 Thumbs.db
 
-# Application-specific
-*.log
-*.xlsx
-*.docx
-!assets/templates/*.docx
-temp/
-data/
-config.ini
-secrets.json
-
-# Streamlit-specific
-.streamlit/
-
-# Large files
-*.model
-*.bin
+# Source code (intentionally excluded)
+src/
+server/
+api/
