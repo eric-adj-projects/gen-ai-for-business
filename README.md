@@ -11,7 +11,6 @@ This repository showcases the project "Generative AI Solutions for Small Busines
 - **Production Implementation**: Translated AI-generated designs into fully functional websites
 
 ## Website Mockups Showcase
-
 ### Art-Fro Kreationz
 ![ArtFroKreationz Mockup](assets/AK-homepage.png)
 **Description:**  
@@ -19,10 +18,13 @@ An artistic online platform blending African-inspired art with contemporary life
 
 
 
+
 ### Heimeinu
 ![Heimeinu Mockup](assets/HM-homepage.png)
 **Description:**  
 A bespoke full-service catering founded by Chef Jacky Nicole, Heimeinu creatively blends Cameroonian heritage, Texan roots, and East Asian influences. This culinary experience includes customized catering using fresh, seasonal ingredients from local farms, intimate private dining experiences with culturally diverse menus, and interactive workshops emphasizing culinary education, organic gardening, and cultural immersion. The website also features a journal with recipes, gardening advice, and reflections on holistic well-being and cultural connections, delivering a digital experience that is both rich in culinary storytelling and user-centric design. [Heimeinu.com](https://www.heimeinu.com/)
+
+
 
 
 ### Roselynn Manor
